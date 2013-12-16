@@ -317,6 +317,7 @@ body>.container {
 .left>.inner-left {
     position:relative;
     padding-top: 25px;
+    margin-top: -25px;
     width:100%;
     min-height:100%;
     -webkit-box-shadow:inset -1px 0 0 rgba(0, 0, 0, 0.3);
