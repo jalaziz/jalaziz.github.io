@@ -1,0 +1,9 @@
+{% if site.gravatar_url %}
+<img src="{{ site.gravatar_url }}?s=200" alt="Gravatar of {{ site.author }} " title="Gravatar of {{ site.author }}" class="profilepic" />
+{% endif %}
+<hgroup>
+  <h1><a href="/">{{ site.title }}</a></h1>
+  {% if site.subtitle %}
+    <h2 class="subtitle">{{ site.subtitle }}</h2>
+   {% endif %}
+</hgroup>

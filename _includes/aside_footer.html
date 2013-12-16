@@ -1,0 +1,17 @@
+<p>
+	{% if site.github_user %}
+		<a href="http://github.com/{{site.github_user}}" class="btn btn-dark"><i class="fa fa-github fa-fw"></i> GitHub</a>
+	{% endif %}
+	{% if site.twitter_user %}
+		<a href="http://twitter.com/{{site.twitter_user}}" class="btn btn-dark"><i class="fa fa-twitter fa-fw"></i> Twitter</a>
+	{% endif %}
+    {% if site.linkedin_public_url %}
+        <a href="{{site.linkedin_public_url }}" class="btn btn-dark"><i class="fa fa-linkedin fa-fw"></i> LinkedIn</a>
+    {% endif %}
+    {% if site.gittip_user %}
+        <a href="https://www.gittip.com/{{site.gittip_user}}" class="btn btn-dark"><i class="fa fa-gittip fa-fw"></i> Gittip</a>
+    {% endif %}
+    {% if site.bitcoin_address %}
+        <a data-amount="{{ site.bitcoin_amount }}" href="bitcoin:{{site.bitcoin_address }}" class="btn btn-dark"><i class="fa fa-bitcoin fa-fw"></i> Bitcoin</a>
+    {% endif %}
+</p>

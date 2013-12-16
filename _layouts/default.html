@@ -1,0 +1,34 @@
+{% include head.html %}
+
+<body>
+	<div class="container">
+		<aside class="left">
+			<div class="inner-left">
+				<header>
+					{% include header.html %}
+				</header>
+                <nav id="social-nav">
+                    {% include social_nav.html %}
+                </nav>
+                <nav id="main-nav">
+                    {% include navigation.html %}
+                </nav>
+				<footer>
+					{% include aside_footer.html %}
+				</footer>
+			</div>
+		</aside>
+    	<section class="right">
+    		<div class="inner-right">
+    			<div id="posts">
+    			  	{{ content }}
+    			</div>
+    			<footer id="footer">
+    				{% include footer.html %}
+    			</footer>
+    			{% include after_footer.html %}
+    		</div>
+    	</section>
+  	</div>
+</body>
+</html>
