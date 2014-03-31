@@ -1,0 +1,66 @@
+==================================================================
+https://keybase.io/jameel
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://jalaziz.io
+  * I am jameel (https://keybase.io/jameel) on keybase.
+  * I have a public key with fingerprint E20B F064 79B1 DCF5 5CC2  3D73 612B BCA5 D882 1231
+
+To claim this, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "fingerprint": "e20bf06479b1dcf55cc23d73612bbca5d8821231",
+            "host": "keybase.io",
+            "key_id": "612bbca5d8821231",
+            "uid": "4f0dd9c5d64f21ce53d3ff0262d90700",
+            "username": "jameel"
+        },
+        "service": {
+            "hostname": "jalaziz.io",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1396299655,
+    "expire_in": 157680000,
+    "prev": "4e6c3820199c11a420e28953b43d346e9a37d10600ea9ed9a464106d35970107",
+    "seqno": 2,
+    "tag": "signature"
+}
+
+with the aforementioned key, yielding the PGP signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v0.1.1
+Comment: https://keybase.io/crypto
+
+yMHlAnicbVFdSBRrGN61TJN+rA3Es2k0JS2y2je/u7MXnU0lQRKjILF22Wbm+2Z3
+1J1ZZ8Y13UxTSj2cqIg8EIgl0UVBnG6MIsxMClEihNpaiG4KCZP1Ig6bpx+/sZ+r
+vpuX93mf93m+h3dy/Spbnn324UwddcZ51j49vtBqO8Qn+xKEqMF2wpcgmtBKkRU1
+jPSYrqgm4SMQBUQZcIyHF0koySwrSRQNPTRHUqIoCSz0eimSoknCTUQ0w9rAMqJg
+oHJFwxhuQgrE6G/4rSsDRgYQ8hILOUamSAmxNKRlGVAcBXngAcAiGkhXhSjC7EZc
+UDPR6SYwFlckjCVWjH/Nm4UOpeO7eUzXTE3SmjEeMc2Yz1oz22MWrw2JoR8KIVFR
+Ic6MF+JINxRNJXwkZkqmYkmSNM9RPM+xrJtAx2OKjkKKxWA9nBfgZ9mguBUEcRLt
+pQDJ8xJJCgwFEOXlWVpkcCKGQ7xAeyAJOACQwCPICwzH4BbSLO8BJPBgfwO1qBrh
+o/A3hTCWNJSwKpitOiI6J8YDq232PNua7Czrara8tfk/b0llcr4F94UvPqsvPNGT
+8c+UXw1Wf65ZUto3nUr01+Wk2MradH/DgP0+7P2noH+wKu08bz+8e3KbI9ry99It
+P/ha+S6rsig5+2fU9e9UejvT+2VxftcfUr39wTndWRYsGHT+v7lL3ruYdturm5zH
+1BJ5a/GnsV45f2OgKDDtrnl7pbDpL3/8ZncmutNR0vfiwro3mdtDc35H38DU0xF3
+7LkBawsid17P3X0UGG5MzxS3pKpmjwwn8kPCyCVv6eVoaYpoOHoSljkObMh9nLr3
+qsv0Zo+hEvVJ0nVwtLNi6HTFhwnXlp4dkZH5tv+uLbhe1u4PGnsC72F3ca5+nft4
+Izm6DI98CSw=
+=oGy/
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/jameel
+
+==================================================================
+
