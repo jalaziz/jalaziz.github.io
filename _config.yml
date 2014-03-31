@@ -12,7 +12,7 @@ description: Frustrations of a Software Engineer
 email: me@jalaziz.io
 subscribe_rss: http://feeds.feedburner.com/jalazizio
 
-include: .well-known
+include: [".well-known"]
 
 # ----------------------- #
 #    Jekyll & Plugins     #
