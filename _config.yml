@@ -31,7 +31,8 @@ pygments: true
 paginate: 10          # Posts per page on the blog index
 paginate_path: blog/page/:num  # Directory base for pagination URLs eg. /blog/page/2/
 
-exclude_from_sitemap: [/atom.xml, /sitemap.xml]
+gems:
+  - jekyll-sitemap
 
 # ----------------------- #
 #   3rd Party Settings    #
